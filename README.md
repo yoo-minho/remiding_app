@@ -8,6 +8,12 @@
 - 잠금화면 (시계, 잠금해제, 랜덤 배경화면)
 - 백그라운드활용 (스크린샷 및 공유 버튼으로 바로 메모 가능)
 
+#활용한 라이브러리
+
+Firebase(Google Analytics, 로그인)
+Glide(이미지)
+PhotoView(핀치투줌)
+
 #플레이스토어에 등록되어있습니다.
 
 https://play.google.com/store/apps/details?id=com.reminding

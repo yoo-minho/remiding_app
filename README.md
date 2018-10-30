@@ -10,9 +10,9 @@
 
 #활용한 라이브러리
 
-Firebase(Google Analytics, 로그인)
-Glide(이미지)
-PhotoView(핀치투줌)
+- Firebase(Google Analytics, 로그인)
+- Glide(이미지)
+- PhotoView(핀치투줌)
 
 #플레이스토어에 등록되어있습니다.
 

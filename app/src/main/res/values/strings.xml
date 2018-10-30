@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">리마인딩</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="n_n"> 어떤 것에 애착이 생기면 행복과 동시에 두려움도 싹튼다.
+        그 대상이 사람일 때 우리는 그것을 사랑이라고 부른다 </string>
+    <string name="n_n_2">- 윤홍균의 "자존감수업" 中</string>
+</resources>

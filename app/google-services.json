@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "961142952784",
+    "firebase_url": "https://reminding-3ad5c.firebaseio.com",
+    "project_id": "reminding-3ad5c",
+    "storage_bucket": "reminding-3ad5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961142952784:android:99429f6a6cc0e3fb",
+        "android_client_info": {
+          "package_name": "com.reminding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961142952784-hbb77tjsfd1c88aupdbv63mcbrv7tr1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reminding",
+            "certificate_hash": "9c102df6506efc5fee0bd395280bcddc7e26b313"
+          }
+        },
+        {
+          "client_id": "961142952784-ltghhrqsf9up4jlf6agfg9q5sb09l32b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITqA_qfY_UtM2VDc77UBQpB2EqNKQRV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961142952784-ltghhrqsf9up4jlf6agfg9q5sb09l32b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
